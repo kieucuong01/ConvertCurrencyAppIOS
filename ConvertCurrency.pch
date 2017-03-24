@@ -1,0 +1,15 @@
+//
+//  ConvertCurrency
+//
+#ifndef ConvertCurrency
+#define ConvertCurrency
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this   file.
+#import "CommonUtils.h"
+#import "Constants.h"
+#import "AFNetworkingHelper.h"
+#import "AppDelegate.h"
+#import "URLManager.h"
+
+#endif /* ConvertCurrency */
